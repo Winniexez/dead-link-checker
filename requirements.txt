@@ -1,0 +1,2 @@
+# No external dependencies required — uses only Python 3.8+ standard library
+# If you want colored output, install: pip install rich
